@@ -1,6 +1,6 @@
 # ABOUT ME
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=4FF721&background=FFFFFFEE&multiline=true&width=800&height=110&lines=Hello+stranger!+;My+name+is+AMITH+KUMAR+S;Welcome+to+my+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=111&color=4FF721&background=FFFFFFEE&multiline=true&width=800&height=110&lines=Hello+there,+stranger!+;My+name+is+AMITH+KUMAR+S;Welcome+to+my+World)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **End to End Machine Learning Projects**
 
