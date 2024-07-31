@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **End to End Machine Learning Projects**
 
-- 🌱 I’m currently learning **Fine Tuning LLM's on custom data**
+- 🌱 I’m currently learning **Machine Learning Operations (MLOps)**
 
 - 💬 Ask me about **Machine Learning, Artificial Intelligence, Data Structures & Algorithms, Quantum Mechanics**
 
