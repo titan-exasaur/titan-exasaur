@@ -18,12 +18,12 @@
 
 # MY STATS
 
-<p align="center"> <b>Profile Views<b> 
-  <br>
-  <img src="https://profile-counter.glitch.me/{titan-exasaur}/count.svg" alt="Profile Visits" />
+<p align="center">
+  <b>Profile Views</b><br>
+  <img src="https://komarev.com/ghpvc/?username=titan-exasaur&color=green" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=titan-exasaur&show_icons=true&theme=merko" align="left" height="160em">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titan-exasaur&layout=compact&theme=vision-friendly-dark" align="right" height="160em">
 
-<img src="https://github-readme-stats.vercel.app/api?username=titan-exasaur&show_icons=true&theme=merko" align="left" height=160em>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titan-exasaur&layout=compact&theme=vision-friendly-dark" align="right" height=160em>
 
