@@ -19,11 +19,19 @@
 # MY STATS
 
 <p align="center">
-  <b>Profile Views</b><br>
-  <img src="https://komarev.com/ghpvc/?username=titan-exasaur&color=green" />
+  <img src="https://komarev.com/ghpvc/?username=titan-exasaur&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=titan-exasaur&show_icons=true&theme=merko" align="left" height="160em">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titan-exasaur&layout=compact&theme=vision-friendly-dark" align="right" height="160em">
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=titan-exasaur&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=titan-exasaur&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" 
+    height="170"
+  />
+</p>
+
 
 
